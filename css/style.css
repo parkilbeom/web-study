@@ -1,0 +1,25 @@
+@import url(./normalize.css);
+
+.header{
+  background-color: skyblue;
+  border: 2px solid red;
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  flex-flow: row nowrap;
+  
+}
+.menu{
+  background-color: orange;
+  display: flex;
+  flex-flow: row wrap;
+  position: absolute;
+  width: 500px;
+}
+.main{
+  background-color: lightgreen;
+  padding: 0 25%;
+}
+.footer{
+  background-color: coral;
+}
