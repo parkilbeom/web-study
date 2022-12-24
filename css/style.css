@@ -5,17 +5,34 @@
   border: 2px solid red;
   box-sizing: border-box;
   display: flex;
-  position: relative;
+  /* position: relative; */
   flex-flow: row nowrap;
+  white-space: nowrap;
   
+}
+.logo{
+
 }
 .menu{
   background-color: orange;
   display: flex;
   flex-flow: row wrap;
-  position: absolute;
+  /* position: absolute; */
   width: 500px;
+  list-style: none;
+  align-items: flex-end;
+  
 }
+
+.menu span{
+  /* background-color: blue; */
+  display: inline-block;
+  /* flex-flow: row wrap; */
+  margin-left:10%;
+  margin-right: ;
+}
+
+
 .main{
   background-color: lightgreen;
   padding: 0 25%;
