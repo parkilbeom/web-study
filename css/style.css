@@ -5,7 +5,7 @@
   border: 2px solid red;
   box-sizing: border-box;
   display: flex;
-  /* position: relative; */
+  position: relative;
   flex-flow: row nowrap;
   white-space: nowrap;
   
@@ -18,9 +18,12 @@
   display: flex;
   flex-flow: row wrap;
   /* position: absolute; */
-  width: 500px;
+  width: 200px;
   list-style: none;
   align-items: flex-end;
+  position: absolute;
+  right: 5%;
+  bottom: 3%;
   
 }
 
