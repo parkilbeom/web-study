@@ -11,7 +11,7 @@
   
 }
 .logo{
-
+  transform: scale(50%);
 }
 .menu{
   background-color: orange;
