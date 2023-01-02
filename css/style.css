@@ -14,7 +14,7 @@
   transform: scale(50%);
 }
 .menu{
-  background-color: orange;
+  /* background-color: orange; */
   display: flex;
   flex-flow: row wrap;
   /* position: absolute; */
@@ -32,15 +32,15 @@
   display: inline-block;
   /* flex-flow: row wrap; */
   margin-left:10%;
-  margin-right: ;
+  margin-right: auto;
 }
 
 
 .main{
-  background-color: lightgreen;
+  /* background-color: lightgreen; */
   padding: 0 25%;
 }
 .footer{
-  background-color: coral;
+  /* background-color: coral; */
   text-align: center;
 }
