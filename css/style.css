@@ -14,7 +14,7 @@
   background-color: red;
   transform: scale(40%);
   align-items: flex-end;
-  position: fixed;
+  position: relative;
   
 }
 .menu{
