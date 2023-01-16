@@ -15,7 +15,7 @@
   transform: scale(40%);
   align-items: flex-end;
   position: relative;
-  
+  top: 75px;
 }
 .menu{
   background-color: orange;
